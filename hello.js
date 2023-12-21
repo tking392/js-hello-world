@@ -4,7 +4,39 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hellom World!");
+// console.log("Hello, World!");
+
+// 1. 
+// console.log ("Coding is Cool!");
+
+// 2. If you do not add the () the code will not run as the () are needed to designate what console.log will do. 
+// console.log "Hello, World!";
+
+// 3. You need both "" in your code otherwise it will not run. The "" are needed to tell what console.log() will output
+// console.log (Hello, World!);
+
+// 4. The code still runs without ; however this will cause problems when you add more code to the equation as the ; acts like a period. 
+// console.log("Hello, World!")
+
+// 5. 
+// console.log ("392");
+
+// 6. 
+// console.log ("Hello!");
+// console.log ("Oh, Hi Mark.");
+
+// 7. 
+// console.log ("Do", "Re", "Mi", "Fa", "So", "La", "Ti", "Do");
+
+// 8. 
+// console.log (' "You Miss 100% of the shots you dont take - Wayne Gretzky" - Michael Scott');
+
+// 9. 
+console.log ("Dude! You got a tattoo!");
+console.log ("So do you, dude! Dude, what does my tattoo say?");
+console.log ('"Sweet!" What about mine?');
+console.log ('"Dude!" What does mine say?');
+console.log ('"Sweet!" What about mine?');
 
 /*  
 Next, PLAY! 
